@@ -1,19 +1,42 @@
-## Hi there 🖐🏻
-I'm Mohshena Akter Meem.
-- 🔭 Currently I’m Learning web development while working on it.
+<h1 align="center">Hi 👋, I'm Mohshena Akter. you can call me Meem🤓</h1>
+<h3 align="center">A passionate web developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohshenaa&label=Profile%20views&color=0e75b6&style=flat" alt="mohshenaa" /> </p>
 
-<!--
-**mohshenaa/mohshenaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohshenaa" alt="mohshenaa" /></a> </p>
 
-Here are some ideas to get you started:
+- ⚒️ I’m currently working on [Madrasha Management Project](https://github.com/younus-isdb/MadrasahManagement)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Backend to Frontend technologies**
+
+- 👩‍💻 I’m looking to collaborate **with Development teams & open-source projects**
+
+- 🤝 I’m looking for help with **Building scalable full-stack applications**
+
+- 👨‍💻 All of my projects are available at [https://github.com/mohshenaa](https://github.com/mohshenaa)
+
+- 💬 Ask me about **Frameworks, databases, and modern web technologies based on my knowledge boundaries**
+
+- 📫 How to reach me **mohshena@gmail.com**
+
+- 📄 my portfolio [https://portfolio-mohshena-akter.netlify.app/](https://portfolio-mohshena-akter.netlify.app/)
+
+- ⚡ Fun fact **I code with a cup of tea or coffee☕**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohshena-akter/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohshena-akter/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/mohshena.meem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohshena.meem" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/mohshena_akter/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mohshena_akter/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/mohshena/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mohshena/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohshenaa&show_icons=true&locale=en&layout=compact" alt="mohshenaa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohshenaa&show_icons=true&locale=en" alt="mohshenaa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohshenaa&" alt="mohshenaa" /></p>
+
