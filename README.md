@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚒️ I’m currently working on full stack Project<br><br>🌱 I’m currently learning Backend to Frontend technologies<br><br>👩‍💻 I’m looking to collaborate with Development teams & open-source projects<br><br>🤝 I’m looking for help with Building scalable full-stack applications<br><br>👨‍💻 All of my projects are available at https://github.com/mohshenaa<br><br>💬 Ask me about Frameworks, databases, and modern web technologies based on my knowledge boundaries<br><br>📫 How to reach me mohshena@gmail.com<br><br>📄 my portfolio https://portfolio-mohshena-akter.netlify.app/<br><br>⚡ Fun fact I code with a cup of tea or coffee☕
+⚒️ I’m currently working on full stack Project<br><br>🌱 I’m currently learning Backend to Frontend technologies<br><br>👩‍💻 I’m looking to collaborate with Development teams & open-source projects<br><br>🤝 I’m looking for help with Building scalable full-stack applications<br><br>👨‍💻 All of my projects are available at https://github.com/mohshenaa<br><br>💬 Ask me about Frameworks, databases, and modern web technologies based on my knowledge boundaries<br><br>📫 How to reach me mohshena@gmail.com<br><br><br><br>⚡ Fun fact I code with a cup of tea or coffee☕
 
 
 ## 🌐 Socials:
