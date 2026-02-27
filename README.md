@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚒️ I’m currently working on full stack Project-https://github.com/younus-isdb/MadrasahManagement<br><br>🌱 I’m currently learning Backend to Frontend technologies<br><br>👩‍💻 I’m looking to collaborate with Development teams & open-source projects<br><br>🤝 I’m looking for help with Building scalable full-stack applications<br><br>📄My portfolio https://portfolio-mohshena-akter.netlify.app/<br><br>💬 Ask me about Frameworks, databases, and modern web technologies based on my knowledge boundaries<br><br>📫 How to reach me mohshena@gmail.com<br><br>⚡ Fun fact I code with a cup of tea or coffee☕
+⚒️ I’m currently working on full stack Project-https://github.com/mohshenaa/PathWay_Solution<br><br>Final Group Project on School Management System-https://github.com/younus-isdb/MadrasahManagement<br><br>🌱 I’m currently learning Backend to Frontend technologies<br><br>👩‍💻 I’m looking to collaborate with Development teams & open-source projects<br><br>🤝 I’m looking for help with Building scalable full-stack applications<br><br>📄My portfolio https://portfolio-mohshena-akter.netlify.app/<br><br>💬 Ask me about Frameworks, databases, and modern web technologies based on my knowledge boundaries<br><br>📫 How to reach me mohshena@gmail.com<br><br>⚡ Fun fact I code with a cup of tea or coffee☕
 
 
 ## 🌐 Socials:
